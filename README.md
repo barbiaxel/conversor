@@ -1,5 +1,5 @@
 # conversor
-Ejercicio 3 conversor Q4. CORREDIGO
+Ejercicio 2 conversor de decimales Q4. CORREDIGO
 Realiza una clase conversor que tenga las siguientes características.
 Toma como parámetro en el constructor un valor entero.
 Tiene un método getNumero que dependiendo del parámetro devolverá el mismo número en el siguiente formato:
